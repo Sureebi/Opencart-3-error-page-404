@@ -18,7 +18,7 @@ No controller, language file, or database changes are needed. The existing OpenC
 
 ## Personalization before publishing
 
-Adapted from the POS-HUB version with the store's phone number and email removed. No contact details are included in the template.
+Adapted the version with the store's phone number and email removed. No contact details are included in the template.
 
 Edit the Bulgarian and English strings directly in the Twig file. The `ph404_en` variable selects English when the supplied OpenCart language `code` is `en`; other values currently select Bulgarian. Add conditions/translations for other languages if needed.
 
