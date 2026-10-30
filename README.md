@@ -35,3 +35,8 @@ Developed and visually checked on a local OpenCart 3 store with the OPC100227_1 
 Preserves header, footer, breadcrumbs, both sidebar slots, `content_top`, `content_bottom`, and OpenCart's content-column sizing. The title uses `role="heading"` and `aria-level="1"` because the original theme moves native h1/h2 headings outside the content area.
 
 No JavaScript, third-party scripts, remote image services, credentials, or store configuration files are included. The header/footer and their existing scripts still come from the destination store.
+
+
+## Preview Image
+
+<img width="959" height="623" alt="poshub404" src="https://github.com/user-attachments/assets/8a0a18ef-da46-4209-9a8c-8a2919dc6006" />
